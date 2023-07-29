@@ -12,6 +12,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ex7l0it&show_icons=true&locale=en" alt="ex7l0it" /> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ex7l0it&" alt="ex7l0it" /></p>
 
+### 📊 Weekly development breakdown
+
 <!--START_SECTION:waka-->
 
 ```txt
