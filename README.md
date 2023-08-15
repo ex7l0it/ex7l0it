@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 07 August 2023 - To: 14 August 2023
 
-Total Time: 25 hrs 22 mins
+Total Time: 18 hrs 49 mins
 
-Go           12 hrs 2 mins   ███████████▒░░░░░░░░░░░░░   45.80 %
-Vue.js       8 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.19 %
-YAML         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Markdown     1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Other        54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Go           8 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.60 %
+Vue.js       5 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.66 %
+YAML         2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Markdown     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Other        54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
