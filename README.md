@@ -34,11 +34,11 @@ Vue.js       1 hr 17 mins    ██░░░░░░░░░░░░░░░
 ### 📃 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CTFd + CTFd_Whale 部署](https://ex7l0it.github.io/2023/08/18/ctfd/)
 - [Docker 的使用](https://ex7l0it.github.io/2023/08/03/docker/)
 - [学习安全方向的必备能力](https://ex7l0it.github.io/2023/07/19/start-learning/)
 - [vim 配置与使用](https://ex7l0it.github.io/2023/07/16/vim/)
 - [Hexo 博客自动化部署](https://ex7l0it.github.io/2023/07/07/auto-hexo/)
-- [又双又叕重启更新Blog](https://ex7l0it.github.io/2023/07/05/hello-world-again/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
