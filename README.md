@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
-Total Time: 14 hrs 17 mins
+Total Time: 11 hrs 37 mins
 
-Rust       8 hrs 44 mins   ███████████████▒░░░░░░░░░   61.18 %
-Markdown   3 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
-Python     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Vue.js     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-YAML       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Rust             6 hrs 34 mins   ██████████████░░░░░░░░░░░   56.54 %
+Markdown         3 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   28.98 %
+Python           1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Bash             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TOML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
