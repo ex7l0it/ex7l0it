@@ -34,11 +34,11 @@ Go           31 mins         █▒░░░░░░░░░░░░░░░
 ### 📃 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023陇剑杯复盘](https://ex7l0it.github.io/2023/09/16/ljb23/)
 - [Github Actions Workflows 使用](https://ex7l0it.github.io/2023/09/07/GithubActions/)
 - [CTFd + CTFd_Whale 部署](https://ex7l0it.github.io/2023/08/18/ctfd/)
 - [Docker 的使用](https://ex7l0it.github.io/2023/08/03/docker/)
 - [学习安全方向的必备能力](https://ex7l0it.github.io/2023/07/19/start-learning/)
-- [vim 配置与使用](https://ex7l0it.github.io/2023/07/16/vim/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
