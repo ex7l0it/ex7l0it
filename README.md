@@ -34,11 +34,11 @@ YAML           46 mins         █▒░░░░░░░░░░░░░░�
 ### 📃 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [基础知识 - shell 💻](https://ex7l0it.github.io/2023/09/20/shell/)
 - [2023陇剑杯复盘](https://ex7l0it.github.io/2023/09/16/ljb23/)
 - [Github Actions Workflows 使用](https://ex7l0it.github.io/2023/09/07/GithubActions/)
 - [CTFd + CTFd_Whale 部署](https://ex7l0it.github.io/2023/08/18/ctfd/)
 - [Docker 的使用](https://ex7l0it.github.io/2023/08/03/docker/)
-- [学习安全方向的必备能力](https://ex7l0it.github.io/2023/07/19/start-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
