@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 25 September 2023
+From: 19 September 2023 - To: 26 September 2023
 
-Total Time: 8 hrs 12 mins
+Total Time: 10 hrs 51 mins
 
-Markdown          3 hrs 7 mins    █████████▒░░░░░░░░░░░░░░░   37.95 %
-Rust              1 hr 56 mins    ██████░░░░░░░░░░░░░░░░░░░   23.57 %
-Bash              48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-YAML              46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Docker            23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Rust              4 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   39.99 %
+Markdown          3 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+Bash              48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+YAML              46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+TOML              30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
