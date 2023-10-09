@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
-Total Time: 4 hrs 1 min
+Total Time: 3 hrs 2 mins
 
-Rust         3 hrs 13 mins   ████████████████████░░░░░   80.17 %
-Go           37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Rust         2 hrs 14 mins   ██████████████████▒░░░░░░   73.96 %
+Go           37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
