@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-Total Time: 7 hrs 4 mins
+Total Time: 8 hrs 23 mins
 
-Markdown   4 hrs 26 mins   ███████████████▓░░░░░░░░░   62.67 %
-Python     1 hr 19 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
-C          39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Makefile   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Assembly   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Markdown     4 hrs 48 mins   ██████████████▒░░░░░░░░░░   57.25 %
+Python       2 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
+C            39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Makefile     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Assembly     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
