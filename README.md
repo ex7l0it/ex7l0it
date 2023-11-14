@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
-Total Time: 4 hrs 32 mins
+Total Time: 2 hrs 25 mins
 
-Markdown   4 hrs 32 mins   ████████████████████████▒   96.68 %
-Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Markdown   2 hrs 25 mins   ███████████████████████▒░   93.97 %
+Other      9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 ```
 
 <!--END_SECTION:waka-->
