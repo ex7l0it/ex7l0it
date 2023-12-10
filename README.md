@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
-Total Time: 16 hrs 38 mins
+Total Time: 15 hrs 39 mins
 
-Markdown   7 hrs 18 mins   ███████████░░░░░░░░░░░░░░   43.73 %
-C          4 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.55 %
-Python     1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Text       1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Rust       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Markdown   6 hrs 57 mins   ███████████░░░░░░░░░░░░░░   44.20 %
+C          4 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.26 %
+Python     1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Text       1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Rust       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
