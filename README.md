@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2023 - To: 16 December 2023
+From: 10 December 2023 - To: 17 December 2023
 
-Total Time: 6 hrs 55 mins
+Total Time: 7 hrs 38 mins
 
-Markdown     2 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   36.62 %
-Python       1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-Bash         1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Vue.js       48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Docker       34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Markdown     2 hrs 51 mins   █████████▒░░░░░░░░░░░░░░░   37.24 %
+Bash         1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+Python       1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+Vue.js       52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Docker       34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->
