@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Total Time: 52 mins
+Total Time: 55 mins
 
-Rust       48 mins         ███████████████████▒░░░░░   77.73 %
-Other      10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Rust       52 mins         ███████████████████▓░░░░░   78.91 %
+Other      10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 
 <!--END_SECTION:waka-->
