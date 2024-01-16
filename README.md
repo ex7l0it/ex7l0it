@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
-Total Time: 3 hrs 1 min
+Total Time: 5 hrs 2 mins
 
-CSV      1 hr 20 mins    ███████████░░░░░░░░░░░░░░   44.26 %
-Python   56 mins         ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-Rust     37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-XML      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+CSV      3 hrs 22 mins   ████████████████▓░░░░░░░░   66.88 %
+Python   58 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Rust     33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+XML      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
