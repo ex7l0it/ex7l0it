@@ -18,14 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-Total Time: 1 hr 34 mins
+Total Time: 1 hr 19 mins
 
-Rust    1 hr 10 mins    ██████████████████▓░░░░░░   74.34 %
-Text    22 mins         ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-TOML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Rust       1 hr 17 mins    ████████████████████████▒   97.73 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
