@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 March 2024 - To: 21 March 2024
+From: 15 March 2024 - To: 22 March 2024
 
-Total Time: 27 hrs 29 mins
+Total Time: 25 hrs 23 mins
 
-Rust       13 hrs 17 mins  ████████████░░░░░░░░░░░░░   48.34 %
-C++        11 hrs 7 mins   ██████████░░░░░░░░░░░░░░░   40.47 %
-Markdown   1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Text       1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-TOML       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+C++           12 hrs 7 mins   ████████████░░░░░░░░░░░░░   47.79 %
+Rust          11 hrs          ██████████▓░░░░░░░░░░░░░░   43.33 %
+Markdown      1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Text          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TOML          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
