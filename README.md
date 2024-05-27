@@ -18,13 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2024 - To: 25 May 2024
+From: 19 May 2024 - To: 26 May 2024
 
-Total Time: 34 mins
+Total Time: 6 mins
 
-Python   29 mins         █████████████████████▒░░░   85.21 %
-Java     4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Python   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
