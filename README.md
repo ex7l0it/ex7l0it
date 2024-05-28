@@ -18,11 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2024 - To: 26 May 2024
+From: 20 May 2024 - To: 27 May 2024
 
-Total Time: 6 mins
+Total Time: 3 hrs 23 mins
 
-Python   6 mins          █████████████████████████   100.00 %
+C          1 hr 28 mins    ██████████▒░░░░░░░░░░░░░░   41.92 %
+Python     1 hr 10 mins    ████████▒░░░░░░░░░░░░░░░░   33.32 %
+Docker     17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Bash       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+YAML       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
 
 <!--END_SECTION:waka-->
