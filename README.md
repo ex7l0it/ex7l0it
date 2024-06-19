@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2024 - To: 17 June 2024
+From: 11 June 2024 - To: 18 June 2024
 
-Total Time: 14 hrs 3 mins
+Total Time: 17 hrs 7 mins
 
-Bash       4 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 %
-C++        3 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
-Markdown   2 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-C          1 hr 56 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-Docker     40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Bash       6 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   35.66 %
+C          4 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+C++        2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+Markdown   2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Docker     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
