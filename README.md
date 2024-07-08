@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2024 - To: 06 July 2024
+From: 30 June 2024 - To: 07 July 2024
 
 Total Time: 24 hrs 29 mins
 
-C++           5 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+C++           5 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.38 %
 Bash          4 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
 Python        3 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
 C             3 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
