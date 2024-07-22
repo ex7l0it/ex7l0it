@@ -34,11 +34,11 @@ C            50 mins         █░░░░░░░░░░░░░░░░
 ### 📃 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UDS 服务仿真实验](https://ex7l0it.github.io/2024/07/12/uds-experiment-tutorial/)
 - [带你玩 💻](https://ex7l0it.github.io/2023/12/03/os-basic/)
 - [树莓派4B 折腾记 - Openwrt](https://ex7l0it.github.io/2023/11/04/raspberrypi-openwrt/)
 - [2023 山东省大学生网络安全技能大赛 复盘](https://ex7l0it.github.io/2023/10/23/23sdnisc/)
 - [vSphere 安装 &amp; 配置](https://ex7l0it.github.io/2023/10/13/vsphere/)
-- [vSphere 折腾记 -- ESXi 系统升级+回滚](https://ex7l0it.github.io/2023/10/13/esxi-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
