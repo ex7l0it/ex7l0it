@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2024 - To: 04 August 2024
+From: 29 July 2024 - To: 05 August 2024
 
-Total Time: 25 hrs 1 min
+Total Time: 21 hrs 14 mins
 
-Vue.js        9 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   37.29 %
-Python        6 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   27.76 %
-C++           3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-JSON          1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-PowerShell    1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Vue.js        9 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.15 %
+C++           5 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+Python        4 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
+JavaScript    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Bash          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
