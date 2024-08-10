@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-Total Time: 15 hrs 5 mins
+Total Time: 18 hrs 26 mins
 
-Python                     4 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-C++                        2 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
-Go                         2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-JavaScript                 1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Vue.js                     57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Python                     5 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.89 %
+Go                         3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
+C++                        2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+JavaScript                 1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Markdown                   1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
 ```
 
 <!--END_SECTION:waka-->
