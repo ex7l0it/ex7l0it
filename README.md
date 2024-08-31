@@ -18,12 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 29 August 2024
+From: 23 August 2024 - To: 30 August 2024
 
-Total Time: 3 hrs 51 mins
+Total Time: 1 hr 38 mins
 
-Python   3 hrs 51 mins   █████████████████████████   99.97 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python         1 hr 23 mins    █████████████████████▒░░░   84.80 %
+TeX            14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+OpenEdge ABL   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
