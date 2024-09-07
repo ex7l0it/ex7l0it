@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2024 - To: 05 September 2024
+From: 30 August 2024 - To: 06 September 2024
 
-Total Time: 2 hrs 56 mins
+Total Time: 2 hrs 41 mins
 
-Python         1 hr 31 mins    █████████████░░░░░░░░░░░░   52.16 %
-Java           1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   39.35 %
-TeX            14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java     1 hr 9 mins     ██████████▓░░░░░░░░░░░░░░   43.01 %
+Python   1 hr 1 min      █████████▓░░░░░░░░░░░░░░░   38.04 %
+Text     30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
