@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2024 - To: 21 September 2024
+From: 15 September 2024 - To: 22 September 2024
 
-Total Time: 2 hrs 33 mins
+Total Time: 2 hrs 27 mins
 
-Python     1 hr 25 mins    █████████████▓░░░░░░░░░░░   55.14 %
-C          32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-Bash       20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-C++        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Python     1 hr 25 mins    ██████████████▒░░░░░░░░░░   57.47 %
+C          26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+Bash       20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+C++        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
