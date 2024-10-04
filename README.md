@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2024 - To: 02 October 2024
+From: 26 September 2024 - To: 03 October 2024
 
-Total Time: 6 hrs 5 mins
+Total Time: 7 hrs 55 mins
 
-Rust         5 hrs 9 mins    ████████████████████▓░░░░   82.45 %
-TOML         48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Java         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Lua          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Rust         6 hrs 56 mins   █████████████████████▒░░░   85.04 %
+TOML         50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Java         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TeX          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
