@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Total Time: 15 hrs 22 mins
+Total Time: 13 hrs 48 mins
 
-Rust         13 hrs 36 mins  █████████████████████▒░░░   85.87 %
-TOML         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-gitconfig    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-sshconfig    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Rust         12 hrs 28 mins  █████████████████████▓░░░   86.69 %
+TOML         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Other        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+gitconfig    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+sshconfig    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
