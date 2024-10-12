@@ -5,13 +5,13 @@
 - ⛳️ CTF: pwn player
 
 ### 💻 Tech Stack
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ex7l0it&show_icons=true&locale=en" alt="ex7l0it" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ex7l0it&" alt="ex7l0it" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+![](https://github-readme-stats.vercel.app/api?username=ex7l0it&show_icons=true&locale=en)
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=ex7l0it&layout=compact&langs_count=12)
 
 ### 📊 Weekly development breakdown
 
