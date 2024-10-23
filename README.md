@@ -18,14 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 21 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
-Total Time: 3 hrs 32 mins
+Total Time: 1 hr 27 mins
 
-C++           1 hr 57 mins    █████████████▓░░░░░░░░░░░   55.22 %
-Rust          1 hr 34 mins    ███████████░░░░░░░░░░░░░░   44.59 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C++           1 hr 19 mins    ██████████████████████▓░░   90.95 %
+Rust          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
