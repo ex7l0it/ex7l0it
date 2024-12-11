@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2024 - To: 09 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 3 mins
+Total Time: 11 mins
 
-Bash     1 min           █████████████░░░░░░░░░░░░   52.45 %
-Python   1 min           ██████████▓░░░░░░░░░░░░░░   42.17 %
-JSON     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Python   9 mins          █████████████████████▒░░░   84.84 %
+Bash     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
