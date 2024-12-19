@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-Total Time: 6 hrs 55 mins
+Total Time: 9 hrs 41 mins
 
-Rust         5 hrs 6 mins    ██████████████████▒░░░░░░   73.95 %
-Python       1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
-JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Rust         5 hrs 6 mins    █████████████▒░░░░░░░░░░░   52.83 %
+Python       3 hrs 58 mins   ██████████▒░░░░░░░░░░░░░░   41.13 %
+CSV          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+C++          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
