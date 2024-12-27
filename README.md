@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2024 - To: 25 December 2024
+From: 19 December 2024 - To: 26 December 2024
 
-Total Time: 19 hrs 51 mins
+Total Time: 26 hrs
 
-Rust         8 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   40.94 %
-Python       7 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   36.94 %
-Other        1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-TOML         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Bash         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Rust         12 hrs 32 mins  ██████████▓░░░░░░░░░░░░░░   43.02 %
+Python       9 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.87 %
+Other        3 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Bash         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+TOML         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
