@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Total Time: 3 hrs 49 mins
+Total Time: 2 hrs 52 mins
 
-Python        2 hrs           █████████████░░░░░░░░░░░░   52.47 %
-Rust          1 hr 17 mins    ████████▒░░░░░░░░░░░░░░░░   33.69 %
-Text          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-TOML          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Markdown      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Python        1 hr 18 mins    ███████████▒░░░░░░░░░░░░░   45.49 %
+Rust          1 hr 17 mins    ███████████▒░░░░░░░░░░░░░   44.67 %
+Markdown      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+TOML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+YAML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
