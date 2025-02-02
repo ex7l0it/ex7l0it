@@ -18,11 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Total Time: 0 secs
+Total Time: 48 mins
 
-No activity tracked
+Python   41 mins         █████████████████████▓░░░   86.67 %
+TOML     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Rust     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
