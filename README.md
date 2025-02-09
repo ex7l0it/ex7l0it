@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2025 - To: 07 February 2025
+From: 01 February 2025 - To: 08 February 2025
 
-Total Time: 4 hrs 45 mins
+Total Time: 4 hrs 35 mins
 
-Python   3 hrs 18 mins   ███████████████▓░░░░░░░░░   62.20 %
-Text     48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-Other    32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Rust     20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-TOML     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Python   3 hrs 12 mins   ███████████████▓░░░░░░░░░   62.53 %
+Text     48 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Other    32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Rust     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+TOML     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
