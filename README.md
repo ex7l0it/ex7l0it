@@ -34,11 +34,11 @@ TOML     8 mins          ▓░░░░░░░░░░░░░░░░░�
 ### 📃 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM 使用](https://ex7l0it.github.io/2025/02/10/llm/)
 - [UDS 服务仿真实验](https://ex7l0it.github.io/2024/07/12/uds-experiment-tutorial/)
 - [AFL++ QEMU mode &lpar;aarch64&rpar;](https://ex7l0it.github.io/2024/06/18/AFLplusplus-QEMU-enchanced/)
 - [带你玩 💻](https://ex7l0it.github.io/2023/12/03/os-basic/)
 - [树莓派4B 折腾记 - Openwrt](https://ex7l0it.github.io/2023/11/04/raspberrypi-openwrt/)
-- [2023 山东省大学生网络安全技能大赛 复盘](https://ex7l0it.github.io/2023/10/23/23sdnisc/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
