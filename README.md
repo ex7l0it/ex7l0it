@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-Total Time: 9 hrs 27 mins
+Total Time: 4 hrs 5 mins
 
-TeX            4 hrs 38 mins   ████████████▒░░░░░░░░░░░░   49.17 %
-OpenEdge ABL   3 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.90 %
-Bash           29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Python         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Text           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+OpenEdge ABL   2 hrs 5 mins    ████████████▓░░░░░░░░░░░░   51.11 %
+TeX            52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+Bash           29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+Python         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Text           11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
