@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
-Total Time: 15 hrs 39 mins
+Total Time: 9 hrs 9 mins
 
-Markdown     15 hrs          ████████████████████████░   95.83 %
-JavaScript   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Markdown     9 hrs 8 mins    █████████████████████████   99.81 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
