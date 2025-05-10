@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2025 - To: 08 May 2025
+From: 02 May 2025 - To: 09 May 2025
 
-Total Time: 6 hrs 9 mins
+Total Time: 6 hrs 50 mins
 
-Markdown   6 hrs 9 mins    █████████████████████████   100.00 %
+Markdown   6 hrs 50 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
