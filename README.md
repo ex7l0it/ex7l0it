@@ -1,9 +1,5 @@
 ## Hi 👋, I'm ex7l0it
 
-- 📙 I’m currently studying at Ocean University of China
-- 🔭 Research direction: Rust Fuzzing
-- ⛳️ CTF: pwn player
-
 ### 💻 Tech Stack
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
