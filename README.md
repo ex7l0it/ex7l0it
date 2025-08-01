@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 30 July 2025
+From: 24 July 2025 - To: 31 July 2025
 
-Total Time: 20 mins
+Total Time: 12 mins
 
-Markdown   18 mins         ██████████████████████░░░   87.46 %
-YAML       2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Markdown   9 mins          ███████████████████▓░░░░░   78.95 %
+YAML       2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
 ```
 
 <!--END_SECTION:waka-->
