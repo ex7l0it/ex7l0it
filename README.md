@@ -14,15 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2026 - To: 31 July 2026
+From: 25 July 2026 - To: 01 August 2026
 
-Total Time: 58 mins
+Total Time: 0 secs
 
-C#                                 36 mins               ███████████▓░░░░░░░░░░░░░   46.73 %
-Other                              19 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
-JSON                               14 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Markdown                           4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-XAML                               1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
